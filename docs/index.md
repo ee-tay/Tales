@@ -1,3 +1,3 @@
 # Stories
 
-# [Story With No Name](./StoryWithNoName/Index.MD)
+# [Story With No Name](./StoryWithNoName/index.md)
