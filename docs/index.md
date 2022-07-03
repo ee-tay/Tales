@@ -1,3 +1,3 @@
 # Stories
 
-1. [Story With No Name](./StoryWithNoName/index.md)
+1. [Tin-Man](./Tin-Man.MD)
